@@ -1,5 +1,4 @@
-# HimmahBoard system 
-
+# PmuMentor.
 This repository is created for the Software Engineering course project.
 
 ## Project Description
